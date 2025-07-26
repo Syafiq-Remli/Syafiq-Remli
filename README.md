@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, I'm Syafiq
+<a href="[https://linkedin.com](https://www.linkedin.com/in/mohd-syafiq-remli-ropi-12914016b/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Syafiq-Remli/Syafiq-Remli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Brief Introduction
 
-Here are some ideas to get you started:
+I am a father to two very wonderful kids and a husband to a very cheerful wife trying to transitioning from offshore oil and gas personnel to cybersecurity job.
 
-- 🔭 I’m currently working on trying to enter the cybersecurity world
-- 🌱 I’m currently learning comptia Network+ and Sec+, and also ongoing on Google Cybersecurity Cert
-- 👯 I’m looking to collaborate on any internship or entry level cybersecurity roles.
-- 🤔 I’m looking for help with my cybersecurity project.
-- 💬 Ask me about Pokemon cause all the good guys in the world is a fan.haha
-- 📫 How to reach me: ...
-- 😄 Pronouns: just a normal "He"
-- ⚡ Fun fact: i am into anime, but also super fan of Pokemon and Monster Hunter.
--->
+## Objective
+
+My journey in life have brought me back here to the point of chasing my dream again to work in cybersecurity, I am super eager to get into this field, specifically aiming to join as a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+-System Monitoring & Logging
+-Incident Response & Safety Protocols
+-Documentation & Reporting
+-SOP Adherence & Technical Checks
+-Basic Networking & Cybersecurity Concepts
+-Microsoft Office, AutoCAD
+-Fluent in English & Bahasa Melayu
+
+## Tools
+
+<img src="https://img.shields.io/badge/🔧-Work_in_Progress-FFA500?style=for-the-badge" />
+
+## Certifications
+
+<img src="https://img.shields.io/badge/🔧-Work_in_Progress-FFA500?style=for-the-badge" />
+
+## Project
+
+<img src="https://img.shields.io/badge/🔧-Work_in_Progress-FFA500?style=for-the-badge" />
