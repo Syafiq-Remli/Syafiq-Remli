@@ -11,13 +11,13 @@ My journey in life have brought me back here to the point of chasing my dream ag
 
 ## Skills
 
--System Monitoring & Logging
--Incident Response & Safety Protocols
--Documentation & Reporting
--SOP Adherence & Technical Checks
--Basic Networking & Cybersecurity Concepts
--Microsoft Office, AutoCAD
--Fluent in English & Bahasa Melayu
+- System Monitoring & Logging
+- Incident Response & Safety Protocols
+- Documentation & Reporting
+- SOP Adherence & Technical Checks
+- Basic Networking & Cybersecurity Concepts
+- Microsoft Office, AutoCAD
+- Fluent in English & Bahasa Melayu
 
 ## Tools
 
